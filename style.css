@@ -54,7 +54,7 @@ header #navbar ul li a:hover {
 /* Header End */
 /* Banner Start */
 #banner {
-    background-image: url('/Images/Banner\ Background\ Image.png');
+    background-image: url('./Images/Banner\ Background\ Image.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ header #navbar ul li a:hover {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     color: darkgreen;
-    background-image: url('/Images/Container1\ About\ Bg\ Image.png');
+    background-image: url('./Images/Container1\ About\ Bg\ Image.png');
     background-position: center;
     background-size: 400px;
     background-repeat: no-repeat;
@@ -259,7 +259,7 @@ header #navbar ul li a:hover {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     color: darkgreen;
-    background-image: url('Images/Container3\ Services\ Bg\ Image.png');
+    background-image: url('.Images/Container3\ Services\ Bg\ Image.png');
     background-position: center;
     background-size: 400px;
     background-repeat: no-repeat;
@@ -316,7 +316,7 @@ header #navbar ul li a:hover {
 /* Container3 End */
 /* Container4 Start */
 #container4 {
-    background-image: url('/Images/Container4\ Background\ Image.png');
+    background-image: url('./Images/Container4\ Background\ Image.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -381,7 +381,7 @@ header #navbar ul li a:hover {
     text-align: center;
     color: darkgreen;
     padding: 50px 0px;
-    background-image: url('/Images/Container5\ Pricing\ \ Bg\ Image.png');
+    background-image: url('./Images/Container5\ Pricing\ \ Bg\ Image.png');
     background-position: center;
     background-size: 400px;
     background-repeat: no-repeat;
@@ -473,7 +473,7 @@ header #navbar ul li a:hover {
 /* Container5 End */
 /* Container6 Start */
 #container6 {
-    background-image: url('Images/Container6\ Background.png');
+    background-image: url('./Images/Container6\ Background.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -551,7 +551,7 @@ header #navbar ul li a:hover {
     text-align: center;
     color: darkgreen;
     padding: 50px 0px;
-    background-image: url('Images/Container7\ Blog\ Bg\ Image.png');
+    background-image: url('./Images/Container7\ Blog\ Bg\ Image.png');
     background-position: center;
     background-size: 200px;
     background-repeat: no-repeat;
@@ -616,7 +616,7 @@ header #navbar ul li a:hover {
 /* Container7 End */
 /* Footer Start */
 footer {
-    background-image: url('/Images/Footer\ Background.png');
+    background-image: url('./Images/Footer\ Background.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -707,7 +707,7 @@ footer #footerh5 {
     /* Header End */
     /* Banner Start */
     #banner {
-        background-image: url('/Images/Banner\ Background\ Image.png');
+        background-image: url('./Images/Banner\ Background\ Image.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -779,7 +779,7 @@ footer #footerh5 {
         font-family: 'Roboto', sans-serif;
         text-align: center;
         color: darkgreen;
-        background-image: url('/Images/Container1\ About\ Bg\ Image.png');
+        background-image: url('./Images/Container1\ About\ Bg\ Image.png');
         background-position: center;
         background-size: 250px;
         background-repeat: no-repeat;
@@ -924,7 +924,7 @@ footer #footerh5 {
         font-family: 'Roboto', sans-serif;
         text-align: center;
         color: darkgreen;
-        background-image: url('Images/Container3\ Services\ Bg\ Image.png');
+        background-image: url('./Images/Container3\ Services\ Bg\ Image.png');
         background-position: center;
         background-size: 250px;
         background-repeat: no-repeat;
@@ -988,7 +988,7 @@ footer #footerh5 {
     /* Container3 End */
     /* Container4 Start */
     #container4 {
-        background-image: url('/Images/Container4\ Background\ Image.png');
+        background-image: url('./Images/Container4\ Background\ Image.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1055,7 +1055,7 @@ footer #footerh5 {
         font-family: 'Roboto', sans-serif;
         text-align: center;
         color: darkgreen;
-        background-image: url('Images/Container7\ Blog\ Bg\ Image.png');
+        background-image: url('./Images/Container7\ Blog\ Bg\ Image.png');
         background-position: center;
         background-size: 200px;
         background-repeat: no-repeat;
@@ -1150,7 +1150,7 @@ footer #footerh5 {
     /* Container5 End */
     /* Container6 Start */
     #container6 {
-        background-image: url('Images/Container6\ Background.png');
+        background-image: url('./Images/Container6\ Background.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1234,7 +1234,7 @@ footer #footerh5 {
         font-family: 'Roboto', sans-serif;
         text-align: center;
         color: darkgreen;
-        background-image: url('Images/Container7\ Blog\ Bg\ Image.png');
+        background-image: url('./Images/Container7\ Blog\ Bg\ Image.png');
         background-position: center;
         background-size: 200px;
         background-repeat: no-repeat;
@@ -1307,7 +1307,7 @@ footer #footerh5 {
     /* Container7 End */
     /* Footer Start */
     footer {
-        background-image: url('/Images/Footer\ Background.png');
+        background-image: url('./Images/Footer\ Background.png');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
