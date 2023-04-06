@@ -66,6 +66,10 @@ header #navbar ul li a:hover {
     animation-timing-function: linear;
 }
 
+.video-container {
+    display: none;
+}
+
 @keyframes Slider {
     0% {
         background-image: url('./Images/Banner\ Background\ Image.png');
@@ -729,35 +733,33 @@ footer #footerh5 {
     /* Header End */
     /* Banner Start */
     #banner {
-        background-image: url('./Images/Banner\ Background\ Image.png');
+        background-image: none;
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         height: 320px;
         width: 100%;
-        animation-name: Slider;
-        animation-duration: 15s;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
+        animation: none;
+    }
+    
+     .video-container {
+        display: block;
+        height: 100%;
+        width: 100%;
+        position: relative;
+        overflow: hidden;
     }
 
-    @keyframes Slider {
-    0% {
-        background-image: url('./Images/Banner\ Background\ Image.png');
+    .myvideo {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        object-fit: cover;
+        pointer-events: none;
+        z-index: -1;
     }
-
-    25% {
-        background-image: url('https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-    }
-
-    50% {
-        background-image: url('https://images.pexels.com/photos/1123253/pexels-photo-1123253.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-    }
-
-    75% {
-        background-image: url('https://images.pexels.com/photos/2942320/pexels-photo-2942320.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
-    }
-}
     
     #bannerh1 {
         font-size: 25px;
@@ -1454,6 +1456,10 @@ footer #footerh5 {
         animation-timing-function: linear;
     }
 
+    .video-container {
+    display: none;
+}
+    
     @keyframes Slider {
     0% {
         background-image: url('/Images/Banner\ Background\ Image.png');
